@@ -45,7 +45,7 @@ Yeti skins have been left for tanning in this city
 Thally: Academic. In for Lucius.
 
 [%hardbreaks]
-*Ode to Harry Putter and the vicious fishes*
+_*Ode to Harry Putter and the vicious fishes*
 Well if a lake is a tiny sea,
 N a shark is an angry dolphin,
 Let me bring you to the north,
@@ -71,7 +71,7 @@ With his rope he was malicious,
 We dragged it back n made some delicious dishes.
 
 _Chorus_ X 3
-[%hardbreaks/]
+[%hardbreaks/]_
 
 === Saving private Garett
 Go to Kelvin's cairn and save Garett
@@ -86,7 +86,8 @@ The party tells Thally about the dragon. She seems interested. The Yeti skins ar
 
 === The Mine
 The mission has been given by Orus.
-Clear the mine for 80 gold and a free diner. Half an hour north of the village
+Clear the mine for 80 gold and a free diner. Half an hour north of the village.
+Only hill with trees
 
 ==== Entrance
 Signs with "Kobolts only"
@@ -114,10 +115,14 @@ There is a corridor at the end of the map, with a smaller room
 ==== Pulley room
 Pulley system, with a thick rope attached to the ceiling. A basket can hold up 3 people. 3 alcoves with equipment
 
-==== Clearing the map
+==== Source room
 Ravina investigating alcoves
 3 Big rats are at the source of an underwater river.
 Harry runs at them and slices a rat.
+There are gems in the room, but it would need time and tools to pick.
+The water is warmer near the source.
+Harry ties a rope to himself and tries to go to the source. Current is too strong, Harry is too weak. J Peg does not feel Harry requesting help on the other end of the rope. Nobody actually does. Tonith spots him and tells the others.
+
 
 
 
