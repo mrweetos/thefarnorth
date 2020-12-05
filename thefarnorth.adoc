@@ -45,7 +45,7 @@ Yeti skins have been left for tanning in this city
 Thally: Academic. In for Lucius.
 
 [%hardbreaks]
-_*Ode to Harry Putter and the vicious fishes*_
+*_Ode to Harry Putter and the vicious fishes_*
 _Well if a lake is a tiny sea,_
 _N a shark is an angry dolphin,_
 _Let me bring you to the north,_
@@ -57,11 +57,11 @@ _Let me spit their names:_
 _We got Torinth, Ravina, Larme, Lordock._
 _Jean, Pur, lucious n Eggo,_
 _All deserve praise, but one above them let's go!_
-__
+
 _Chorus_
 _When I say Harry you say Putter,_
 _Harry (Putter) Harry (Putter) X3_
-__
+
 _If a dwarf is a tiny man,_
 _Let's judge him by his deeds._
 _He took of all his clothes,_
@@ -69,7 +69,7 @@ _N jumped in that tiny sea._
 _He was vicious with dem fishes, _
 _With his rope he was malicious, _
 _We dragged it back n made some delicious dishes._
-__
+
 _Chorus X 3_
 [%hardbreaks/]
 
