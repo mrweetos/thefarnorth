@@ -44,9 +44,9 @@ Yeti skins have been left for tanning in this city
 === Fishing the Plesiasaurus
 Thally: Academic. In for Lucius.
 
-_[%hardbreaks]
+[%hardbreaks]
 *Ode to Harry Putter and the vicious fishes*
-Well if a lake is a tiny sea,
+_Well if a lake is a tiny sea,
 N a shark is an angry dolphin,
 Let me bring you to the north,
 To the icy waters of Maer Dauldon.
@@ -70,8 +70,8 @@ He was vicious with dem fishes,
 With his rope he was malicious, 
 We dragged it back n made some delicious dishes.
 
-Chorus X 3
-[%hardbreaks/]_
+Chorus X 3_
+[%hardbreaks/]
 
 === Saving private Garett
 Go to Kelvin's cairn and save Garett
@@ -122,7 +122,7 @@ Harry runs at them and slices a rat.
 There are gems in the room, but it would need time and tools to pick.
 The water is warmer near the source.
 Harry ties a rope to himself and tries to go to the source. Current is too strong, Harry is too weak. J Peg does not feel Harry requesting help on the other end of the rope. Nobody actually does. Tonith spots him and tells the others.
-Lordock is touching Eggo with _Strength of the BUll_. Eggo gets super strong.
+Lordock is touching Eggo with _Strength of the Bull_. Eggo gets super strong.
 
 
 
