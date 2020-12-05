@@ -1,0 +1,85 @@
+= DND, Far North Campaign
+:atoc:
+
+== Cities
+=== Targos
+Size: big
+Type: main city in the regions
+Main Inn: Northlook Inn
+Speaker:
+
+== Brynn Chander
+Size: little
+Type:
+Main Inn:
+Speaker:
+
+== Targos
+Size: Medium
+Type: Fishing village
+Main Inn:
+Speaker: Maxildanarr
+
+== Termalaine
+Size: Medium
+Type: one of the nicest towns in Icewindale. Forest is north, Maer Dualdon is West.
+Main Inn: The Blue Clam$
+Speaker: Orus Mastiu
+Yeti skins have been left for tanning
+
+== Quests
+=== Fishing the Plesiasaurus
+Thally: Academic
+
+=== Saving private Garett
+Go to Kelvin's cairn and save Garett
+Keygan: dwarf, owner of dogs and sledges
+Boy: Leading dog
+Garett: the climber who fell
+Mokingo Growling Bear Akannathi: goliath. Dead, murdered by a yeti
+Perilou Fishfinger: hafling, saved from the yeti
+Astrix: Tiefling. Dead, frozen, solid
+
+=== The Mine
+==== Beginning
+Signs with "Kobolts only"
+Clear the mine for 80 gold and a free diner. Half an hour north of the village
+The party picks tools
+Kobolt tracks at the entrance of the mine
+HArry engraves walls as far as the party moves
+Lordock Draws a map
+
+==== Working room
+Rocks on the floor, picks, hammers
+People did not clean up after they left
+Place where they extract the gems from the rock, trimming the rocks before taking them out
+Larm finds a figurine of dog, with eyers made of termalaine
+
+==== Shaft room
+Big water fall cascades down in a shaft
+Walkway made of wooden planks
+Super noisy, we need to shout to communicate
+Larm: goes first
+Tonith: Looks for places to attach a rope, but finds nothing. It is just a walkway
+Eggo: braves it
+Harry: drops a rock to estimate the depth. The rocks rolls down, but he cant hear it touch the ground because of the noise.
+There is a corridor at the end of the map, with a smaller room
+
+==== Pulley room
+Pulley system, with a thick rope attached to the ceiling. A bucket can hold up 3 people. 3 alcoves with equipment
+
+==== Clearing the map
+Ravina investigating alcoves
+Big rats are at the source of an underwater river.
+XXXXXXX
+
+== Creatures
+Arveiaturace: the white worm, ancient white dragon. Eats dear, bears, etc. Does not attack people.
+
+
+
+
+
+
+
+
