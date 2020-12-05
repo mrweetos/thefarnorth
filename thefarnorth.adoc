@@ -45,7 +45,7 @@ Yeti skins have been left for tanning in this city
 Thally: Academic. In for Lucius.
 
 [%hardbreaks]
-_*Ode to Harry Putter and the vicious fishes*
+__*Ode to Harry Putter and the vicious fishes*
 Well if a lake is a tiny sea,
 N a shark is an angry dolphin,
 Let me bring you to the north,
@@ -71,7 +71,7 @@ With his rope he was malicious,
 We dragged it back n made some delicious dishes.
 
 _Chorus_ X 3
-[%hardbreaks/]_
+[%hardbreaks/]__
 
 === Saving private Garett
 Go to Kelvin's cairn and save Garett
