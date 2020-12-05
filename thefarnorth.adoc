@@ -46,7 +46,7 @@ Thally: Academic. In for Lucius.
 
 [%hardbreaks]
 *Ode to Harry Putter and the vicious fishes*
-_Well if a lake is a tiny sea,
+__Well if a lake is a tiny sea,
 N a shark is an angry dolphin,
 Let me bring you to the north,
 To the icy waters of Maer Dauldon.
@@ -70,7 +70,7 @@ He was vicious with dem fishes,
 With his rope he was malicious, 
 We dragged it back n made some delicious dishes.
 
-Chorus X 3_
+Chorus X 3__
 [%hardbreaks/]
 
 === Saving private Garett
