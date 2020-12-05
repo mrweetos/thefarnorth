@@ -45,32 +45,32 @@ Yeti skins have been left for tanning in this city
 Thally: Academic. In for Lucius.
 
 [%hardbreaks]
-*Ode to Harry Putter and the vicious fishes*
-Well if a lake is a tiny sea,
-N a shark is an angry dolphin,
-Let me bring you to the north,
-To the icy waters of Maer Dauldon.
-This is a story of a Plesisaurous,
-Do you think he saw us?
-N a group who was its bane,
-Let me spit their names:
-We got Torinth, Ravina, Larme, Lordock.
-Jean, Pur, lucious n Eggo,
-All deserve praise, but one above them let's go!
-
-Chorus
-When I say Harry you say Putter,
-Harry (Putter) Harry (Putter) X3
-
-If a dwarf is a tiny man,
-Let's judge him by his deeds.
-He took of all his clothes,
-N jumped in that tiny sea.
-He was vicious with dem fishes, 
-With his rope he was malicious, 
-We dragged it back n made some delicious dishes.
-
-Chorus X 3
+_*Ode to Harry Putter and the vicious fishes*_
+_Well if a lake is a tiny sea,_
+_N a shark is an angry dolphin,_
+_Let me bring you to the north,_
+_To the icy waters of Maer Dauldon._
+_This is a story of a Plesisaurous,_
+_Do you think he saw us?_
+_N a group who was its bane,_
+_Let me spit their names:_
+_We got Torinth, Ravina, Larme, Lordock._
+_Jean, Pur, lucious n Eggo,_
+_All deserve praise, but one above them let's go!_
+__
+_Chorus_
+_When I say Harry you say Putter,_
+_Harry (Putter) Harry (Putter) X3_
+__
+_If a dwarf is a tiny man,_
+_Let's judge him by his deeds._
+_He took of all his clothes,_
+_N jumped in that tiny sea._
+_He was vicious with dem fishes, _
+_With his rope he was malicious, _
+_We dragged it back n made some delicious dishes._
+__
+_Chorus X 3_
 [%hardbreaks/]
 
 === Saving private Garett
@@ -126,6 +126,11 @@ Lordock is touching Eggo with _Strength of the Bull_. Eggo gets super strong.
 Harry is gasping for hair and flailing with his arms, and falls into the darkness. The rope goes tight.
 Ravina is casting _Destroy Water_. Harry gets 1 second free of water.
 Eggo pulls pulls and Harry holds his breath. Finally, he emerges on the side, finally safe.
+Harry dries with his apron, gets dressed again and evenutally warm.
+The party continues. to the shaft, and pulley room.
+
+==== Pulley room
+
 
 
 
