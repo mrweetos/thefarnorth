@@ -46,7 +46,7 @@ Thally: Academic. In for Lucius.
 
 [%hardbreaks]
 *Ode to Harry Putter and the vicious fishes*
-__Well if a lake is a tiny sea,
+_Well if a lake is a tiny sea,_
 N a shark is an angry dolphin,
 Let me bring you to the north,
 To the icy waters of Maer Dauldon.
@@ -70,7 +70,7 @@ He was vicious with dem fishes,
 With his rope he was malicious, 
 We dragged it back n made some delicious dishes.
 
-Chorus X 3__
+Chorus X 3
 [%hardbreaks/]
 
 === Saving private Garett
@@ -123,6 +123,7 @@ There are gems in the room, but it would need time and tools to pick.
 The water is warmer near the source.
 Harry ties a rope to himself and tries to go to the source. Current is too strong, Harry is too weak. J Peg does not feel Harry requesting help on the other end of the rope. Nobody actually does. Tonith spots him and tells the others.
 Lordock is touching Eggo with _Strength of the Bull_. Eggo gets super strong.
+Harry is gasping for hair and flailing with his arms, and falls into the darkness. The rope goes tight.
 
 
 
