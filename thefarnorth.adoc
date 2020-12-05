@@ -1,6 +1,19 @@
 = The Far North Campaign
 :atoc:
 
+== Characters
+Alli: Larme
+Ray: Lordock
+Rick: J.Peg
+Chris: Lucius
+Elliot: Eggo
+Aleca: Tonith
+Vincent: Harry
+Martin: Ravina
+
+== Creatures
+Arveiaturace: the white worm, ancient white dragon. Eats dear, bears, etc. Does not attack people.
+
 == Cities
 === Targos
 Size: big
@@ -23,9 +36,9 @@ Speaker: Maxildanarr
 == Termalaine
 Size: Medium
 Type: one of the nicest towns in Icewindale. Forest is north, Maer Dualdon is West.
-Main Inn: The Blue Clam$
+Main Inn: The Blue Clam
 Speaker: Orus Mastiu
-Yeti skins have been left for tanning
+Yeti skins have been left for tanning in this city
 
 == Quests
 === Fishing the Plesiasaurus
@@ -44,9 +57,11 @@ Astrix: Tiefling. Dead, frozen, solid
 The party tells Thally about the dragon. She seems interested. The Yeti skins are left for preparation.
 
 === The Mine
-==== Beginning
-Signs with "Kobolts only"
+The mission has been given by Orus.
 Clear the mine for 80 gold and a free diner. Half an hour north of the village
+
+==== Entrance
+Signs with "Kobolts only"
 The party picks tools
 Kobolt tracks at the entrance of the mine
 Harry engraves walls as far as the party moves
@@ -59,7 +74,7 @@ Place where they extract the gems from the rock, trimming the rocks before takin
 Larm finds a figurine of dog, with eyers made of termalaine
 
 ==== Shaft room
-Big water fall cascades down in a shaft
+Big water fall cascades down in a shaft, down to the underdark
 Walkway made of wooden planks
 Super noisy, we need to shout to communicate
 Larm: goes first
@@ -69,15 +84,17 @@ Harry: drops a rock to estimate the depth. The rocks rolls down, but he cant hea
 There is a corridor at the end of the map, with a smaller room
 
 ==== Pulley room
-Pulley system, with a thick rope attached to the ceiling. A bucket can hold up 3 people. 3 alcoves with equipment
+Pulley system, with a thick rope attached to the ceiling. A basket can hold up 3 people. 3 alcoves with equipment
 
 ==== Clearing the map
 Ravina investigating alcoves
 Big rats are at the source of an underwater river.
 XXXXXXX
 
-== Creatures
-Arveiaturace: the white worm, ancient white dragon. Eats dear, bears, etc. Does not attack people.
+
+
+
+
 
 
 
