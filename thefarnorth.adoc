@@ -44,8 +44,8 @@ Yeti skins have been left for tanning in this city
 === Fishing the Plesiasaurus
 Thally: Academic. In for Lucius.
 
-[%hardbreaks]
-__*Ode to Harry Putter and the vicious fishes*
+_[%hardbreaks]
+*Ode to Harry Putter and the vicious fishes*
 Well if a lake is a tiny sea,
 N a shark is an angry dolphin,
 Let me bring you to the north,
@@ -58,7 +58,7 @@ We got Torinth, Ravina, Larme, Lordock.
 Jean, Pur, lucious n Eggo,
 All deserve praise, but one above them let's go!
 
-_Chorus_
+Chorus
 When I say Harry you say Putter,
 Harry (Putter) Harry (Putter) X3
 
@@ -70,8 +70,8 @@ He was vicious with dem fishes,
 With his rope he was malicious, 
 We dragged it back n made some delicious dishes.
 
-_Chorus_ X 3
-[%hardbreaks/]__
+Chorus X 3
+[%hardbreaks/]_
 
 === Saving private Garett
 Go to Kelvin's cairn and save Garett
