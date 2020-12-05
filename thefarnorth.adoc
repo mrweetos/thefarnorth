@@ -167,7 +167,7 @@ The one with the wings introduces himself. His name is Trex, and does not want t
 
 Eggo: "You seem to be aggressive. What happen to the people working here? This is not your mine. Are you a Kobolt?"
 
-Trex: "Of course we are. Here are my body guards. Vork and Zirt"
+Trex: "Of course we are. Here are my body guards. Volt and Zurk"
 `
 Ravina: "Where are the miners?"
 
@@ -194,6 +194,12 @@ Tonis: "How many kobolts are you?"
 Trerx "Around a dozen"
 
 Lucius "Yeah, a few less now"
+
+Tonis approaches and go shake hands with Trex.
+
+Trex: "This is a good development. Take us to Termalaine, and we will tell them we will work for them, out of the cold. Help us go back to Termalaine. I am so glad we can talk about this"
+
+Tonis casts _Identify Magic_, and understand the Kobolt is possessed.
 
 
 
