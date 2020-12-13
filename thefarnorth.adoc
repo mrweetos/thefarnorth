@@ -10,6 +10,7 @@ Elliot: Eggo
 Aleca: Tonith
 Vincent: Harry
 Martin: Ravina
+kate: Purrr
 
 == Creatures
 Arveiaturace: the white worm, ancient white dragon. Eats dear, bears, etc. Does not attack people.
@@ -38,7 +39,7 @@ Size: Medium
 Type: one of the nicest towns in Icewindale. Forest is north, Maer Dualdon is West.
 Main Inn: The Blue Clam
 Speaker: Orus Mastiu
-Yeti skins have been left for tanning in this city
+Yeti skins have been left for tanning in this city.
 
 == Quests
 === Fishing the Plesiasaurus
@@ -234,7 +235,26 @@ Tonith joins to _Identify Magic_. It is a Cristal Shard: uncommon cristal that r
 Harry begins extracting the skull, but it tumbles to the ground into pieces.
 
 ===== Bigger chamber
-Tonith meets 4 injured kobolts. Tonith and Eggo puts them to sleep, one of them even dies. They tie them up quickly before the awake.
+Tonith meets 4 injured kobolts. Tonith and Eggo puts them to sleep, one of them even dies. They tie them up quickly before they awake.
+The party goes back up, and meet Purrr there.
+
+==== Back to Termalaine, and in the wood
+The party met the guards of Bryn Chamer, the inn keeper and Thally having a fight outside.
+The officials from Bryn Chamber looking for Ravina: Ravina won the lotery for the sacrifice. Tonith stood and pissed the leader who sent the guards to arrest them.
+In another part of the city, an army of guards are trying to capture everybody.
+
+The party left ot hide in the forrest.
+
+Thonis called out the law.
+
+Thally is with the group, in the forrest. Everybody is 1 mile deep in the forrest. It is time to bivouac. Resting is still impossible because of the cold. There are stories about the danger in the wood. Large footprints that she collected support those stories.
+
+Thonis atuned with the Psy Cristal, now purple.
+
+
+
+
+
 
 
 
