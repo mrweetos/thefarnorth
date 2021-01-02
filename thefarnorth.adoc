@@ -1,49 +1,11 @@
 = The Far North Campaign
 :atoc:
 
-== Characters
-Alli: Larme
-Ray: Lordock
-Rick: J.Peg
-Chris: Lucius
-Elliot: Eggo
-Aleca: Tonith
-Vincent: Harry
-Martin: Ravina
-kate: Purrr
 
-== Creatures
-Arveiaturace: the white worm, ancient white dragon. Eats dear, bears, etc. Does not attack people.
-Ravisin: Druid
-Sahnar: Momie
 
-== Cities
-=== Targos
-Size: big
-Type: main city in the regions
-Main Inn: Northlook Inn
-Speaker:
 
-== Brynn Chander
-Size: little
-Type:
-Main Inn:
-Speaker:
 
-== Targos
-Size: Medium
-Type: Fishing village
-Main Inn:
-Speaker: Maxildanarr
-
-== Termalaine
-Size: Medium
-Type: one of the nicest towns in Icewindale. Forest is north, Maer Dualdon is West.
-Main Inn: The Blue Clam
-Speaker: Orus Mastiu
-Yeti skins have been left for tanning in this city.
-
-== Lonelywood
+== Black Cabin
 
 == Quests
 === Fishing the Plesiasaurus
@@ -286,7 +248,7 @@ A few of the animals ake up and notice the characters. They seem sedate and peac
 
 There are 3 marble statues. They are elves, facing east. They look like clerics or wizzards.
 
-Harry picks up a baby wolf, and go down the stairs. A stone door is at the end of the stairs. There is an engraving, symbol of a hafl moon.
+Harry picks up a baby wolf, and go down the stairs. A stone door is at the end of the stairs. There is an engraving, symbol of a half moon.
 
 They try another corridor which ends at a mirror. There is a stone frame. It looks like the full moon.
 
@@ -355,15 +317,51 @@ From behing the sarphagus, a druid jumps on top it. He shouts at Harry "10 towns
 
 Purr tries to charm Ravisin, and then the battle starts. The party struggles, but finally takes the druid down.
 
+The frost Maiden
+Q1: the frost maiden is vulnerable to something but not fir
+Q2: Lordocks mentor, Sarah is dead. Confirmed in the Big Black Cabin.
+Q3: 
 
 
 
+==== Black Cabin
+Loenly wood: town speaker awarded us with a safe house
+2 amulets:
+- ?
+- ?
 
+Tonith touched an unfinished amulet. It started to glow.
 
+The party is able to control wether within a 5 miles radius. With the summer star.
 
+As the night passes by, a Coldnight Walker appears... Harry drops the puppy, and runs outside for a distraction. Every body draw weapons and the Walker is defeated.
 
+At the same time, ice Mephits appear from the floor and attack Locius, Lordock, and Tonith from behind. 
 
+The night goes by. In the morning, Lucius notices a body on a corner of the main room. The group investigates who this might be.
 
+==== Back at the Ramshackle
+Nimsy is invited to the house, and some of the story is shared.
+
+Gossips from around the 10 towns:
+- Wolves in Dougan's Hole. This is a rumor, though
+- In East Haven, the person for the sacrifice escaped. The person was found murdered.
+- Rumors about Giants
+- People say that North west of Bremen, there is a pirate ship frozen in the ice
+- Psi Crustal beacon to unknown location in the Spine of the world
+
+==== Pirate boat
+12 miles per day.
+
+The group is leaving Lonelywood, heading north, turning around the Maer Dualdon, and continuing South to Bremen. The party reaches Bremen without too much issues in a few hours.
+
+Rumors and news:
+- she knows about Ravina and Larme. She saw the guards coming in by boat, and leave by boat. They left a day, looking all houses
+- one castle intact "Caer Dineval", and one destroyed "Caer Konig". Her son went missing looking for the speaker. He did not find his way back until the following morning. He was severely frost bite. But he started changing his personality. One day she found him playing with a piece of black ice in his room. She took it away, but he became violent. Then 2 tieflings arrived and offered to take her son, who was mentally disturbed. They offered sanctuary. His son went willingly, telling her mom he would never return. The tieffling mentioned they would take him back to their castle (maybe one of the two castles). The name of the son is Huarwar.
+
+In the morning, the party leaves. It continues across the day, heading towards an hypothetical direction that nothing can confirm. In the end of the day, icebergs are visible in the distance.
+
+The groups settles for the night. Lordock will get up early to improve visibilty in the morning.
 
 
 

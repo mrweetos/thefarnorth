@@ -1,0 +1,44 @@
+= Cities
+== Targos
+Size: big
+Type: main city in the regions
+Main Inn: Northlook Inn
+Speaker:
+
+== Brynn Chander
+Size: little
+Type:
+Main Inn:
+Speaker:
+
+== Targos
+Size: Medium
+Type: Fishing village
+Main Inn:
+Speaker: Maxildanarr
+
+== Termalaine
+Size: Medium
+Type: one of the nicest towns in Icewindale. Forest is north, Maer Dualdon is West.
+Main Inn: The Blue Clam
+Speaker: Orus Mastiu
+Yeti skins have been left for tanning in this city.
+
+== Lonelywood
+Holds the safe house of the party
+Friends with the speaker
+Speaker: Nimsy Huddle
+
+== Black Cabin
+
+== The Ramshackle
+Safe house to the party
+
+== Bremen
+Size: Really small, 150 people
+Type:
+Speaker:
+Inn: Burried Treasures
+The city is disconnected from the rest of the 10 towns
+Inn tender: Cara Mulphoon, super nice
+Town flag: The gold circle represents treasures that are revealed during floods. Blue band is the river, the blue triangle is the lake
