@@ -13,3 +13,4 @@ kate: Purrr
 Arveiaturace: the white worm, ancient white dragon. Eats dear, bears, etc. Does not attack people.
 Ravisin: Druid
 Sahnar: Momie
+Angajuk: friendly talking whales who know where the Frost Maiden lives
