@@ -14,3 +14,6 @@ Arveiaturace: the white worm, ancient white dragon. Eats dear, bears, etc. Does 
 Ravisin: Druid
 Sahnar: Momie
 Angajuk: friendly talking whales who know where the Frost Maiden lives
+Meltharond: rider of Arveiaturace, dead. used to be a wizard.
+
+Frost Maiden: Has a pet rock.

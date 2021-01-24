@@ -42,3 +42,6 @@ Inn: Burried Treasures
 The city is disconnected from the rest of the 10 towns
 Inn tender: Cara Mulphoon, super nice
 Town flag: The gold circle represents treasures that are revealed during floods. Blue band is the river, the blue triangle is the lake
+
+== Revel's End
+Up North.This is where bad people go. They stay a long time. It is a prison.
