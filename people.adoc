@@ -14,6 +14,12 @@ Arveiaturace: the white worm, ancient white dragon. Eats dear, bears, etc. Does 
 Ravisin: Druid
 Sahnar: Momie
 Angajuk: friendly talking whales who know where the Frost Maiden lives
-Meltharond: rider of Arveiaturace, dead. used to be a wizard.
+Meltharond: rider of Arveiaturace, dead. used to be a wizard
+Trovus: Town keeper
+Ally: runs the Nothern Lantern. She runs the Inn with her sister. She is the youngest.
+Cory: 
+Kadroth: 
 
 Frost Maiden: Has a pet rock.
+
+Icebeaks: 3 miles per hour on tundra, twice faster on a road

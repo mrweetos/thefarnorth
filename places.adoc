@@ -45,3 +45,13 @@ Town flag: The gold circle represents treasures that are revealed during floods.
 
 == Revel's End
 Up North.This is where bad people go. They stay a long time. It is a prison.
+
+== Caer Konig
+Closest town to Kelvin's Cairn. 
+A completely ruined castle.
+The lake is frozen.
+Speaker: Trovus
+
+== Caer Dineval
+A castle. Famous for its fortifications, atop cliffs. At the bottom is a port. The castle is inhabited, in good conditions.
+Speaker: Crannoc Siever
