@@ -55,3 +55,22 @@ Speaker: Trovus
 == Caer Dineval
 A castle. Famous for its fortifications, atop cliffs. At the bottom is a port. The castle is inhabited, in good conditions.
 Speaker: Crannoc Siever
+Lanthis: scribe to the speaker
+
+== Eastheaven
+Life is good there, suposedly. The speaker is Waylen.
+This is a Big city, along the lake Dinneshere. There are a lot of houses. The town is open to the Tundra, and feels like a city. This is a metropolis to Goliaths.
+
+There is no gate to enter.
+
+Brown: East
+Blue: lake Dinnesheere
+Tower: city
+
+Thieves seem to be all over the place.
+
+The captain of the militia is Captain Arlaggath
+
+The Inn is the White Lady
+
+
