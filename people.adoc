@@ -2,10 +2,11 @@
 Alli: Larme
 Ray: Lordock
 Rick: J.Peg
-Chris: Lucius
+ x Chris: Lucius
+Chris: Cain
 Elliot: Eggo
 Aleca: Tonith
-Vincent: Harry
+ x Vincent: Harry
 Martin: Ravina
 kate: Purrr
 
